@@ -28,5 +28,5 @@ BSD license
 
 P.S. 
  - I don't own Objects that are used in application - they were downloaded as free .obj files from http://www.top3dmodels.com/;
- - wth.pl originated from this place: https://github.com/HBehrens/obj2opengl
- - This project OpenGL stuff base was taken from: http://iphonedevelopment.blogspot.com/2008/12/start-of-wavefront-obj-file-loader.html
+ - wth.pl originated from this place: https://github.com/HBehrens/obj2opengl;
+ - This project OpenGL stuff base was taken from: http://iphonedevelopment.blogspot.com/2008/12/start-of-wavefront-obj-file-loader.html.
