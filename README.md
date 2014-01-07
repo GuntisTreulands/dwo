@@ -1,9 +1,26 @@
-Dynamic Wavefront Objects
-==============
+Dynamic Wavefront Objects.
+===
 
 ![PreviewImage](https://github.com/GuntisTreulands/dwo/blob/master/example.gif?raw=true)
 
-Description will be here... soon
+
+In short:
+===
+
+Demo:
+
+ - Xcode 5.0;
+ - ARC;
+ - OpenGL ES 1;
+ - Binary Wavefront object file loader;
+ - OpenGL view with functionality: zoom / pan / rotate / swipe to rotate;
+
+wth.pl
+
+ - Can convert wavefront object .obj to binary files, which contains already parsed vertices, normals and texture coordinates to be loaded in OpenGL; 
+ 
+More information will be available here: http://gtreulands.blogspot.com/
+
 
 wth.pl usage instructions
 ===
