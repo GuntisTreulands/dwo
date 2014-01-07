@@ -3,9 +3,23 @@ Dynamic Wavefront Objects
 
 ![PreviewImage](https://github.com/GuntisTreulands/dwo/blob/master/example.gif?raw=true)
 
-
 Description will be here... soon
 
+wth.pl usage instructions
+===
+
+For Mac:
+Open terminal, cd /to/folder/where/is/located/wth.pl/and/Your/.obj/file
+
+Then type ./wth.pl file123.obj
+
+and it will generate a folder file123Data, which will contain up to four files:
+ - file123Header.b
+ - file123PartNormals.b
+ - file123PartTextureCoords.b
+ - file123PartVerts.b
+
+Latter 3 files contains binary data, but Header file contains face count and center coordinates. Check out demo project to see how they are used!
 
 BSD license
 ===
