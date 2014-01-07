@@ -1,7 +1,7 @@
 Dynamic Wavefront Objects
 ==============
 
-![PreviewImage](https://github.com/GuntisTreulands/dwo/blob/master/wolverine.png?raw=true)
+![PreviewImage](https://github.com/GuntisTreulands/dwo/blob/master/example.gif?raw=true)
 
 
 Description will be here... soon
