@@ -12,7 +12,7 @@ Demo:
  - Binary Wavefront object file loader;
  - OpenGL view with functionality: zoom / pan / rotate / swipe to rotate;
 
-wth.pl
+wth.pl 
 
  - Can convert wavefront object .obj to binary files (contains already parsed vertices, normals and texture coordinates to be loaded in OpenGL); 
  
