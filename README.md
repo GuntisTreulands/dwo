@@ -1,11 +1,8 @@
-Dynamic Wavefront Objects.
+Dynamic Wavefront Objects
 ===
 
 ![PreviewImage](https://github.com/GuntisTreulands/dwo/blob/master/example.gif?raw=true)
 
-
-In short:
-===
 
 Demo:
 
@@ -17,7 +14,7 @@ Demo:
 
 wth.pl
 
- - Can convert wavefront object .obj to binary files, which contains already parsed vertices, normals and texture coordinates to be loaded in OpenGL; 
+ - Can convert wavefront object .obj to binary files (contains already parsed vertices, normals and texture coordinates to be loaded in OpenGL); 
  
 More information will be available here: http://gtreulands.blogspot.com/
 
