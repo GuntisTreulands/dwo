@@ -16,7 +16,7 @@ wth.pl
 
  - Can convert wavefront object .obj to binary files (contains already parsed vertices, normals and texture coordinates to be loaded in OpenGL); 
  
-More information will be available here: http://gtreulands.blogspot.com/
+More information and story is available here: http://gtreulands.blogspot.com/2014/01/ios-opengl-wavefront-objects.html
 
 
 wth.pl usage instructions
